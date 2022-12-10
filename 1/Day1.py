@@ -58,15 +58,5 @@ def main():
     sum_top_three = sum([elves[num_of_elves-1], elves[num_of_elves-2], elves[num_of_elves-3]])
     print(sum_top_three)
 
-
-    # Sort the elves and find total of top three
-    # for elf in elves:
-    #     if elf.calories >= most_calories:
-    #         most_calories = elf.calories
-    #         elf_thats_packing = elf
-
-
-
-
 if __name__ == "__main__":
     main()

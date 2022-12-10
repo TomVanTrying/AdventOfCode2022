@@ -1,5 +1,6 @@
 # AdventOfCode2022
 --- Day 1: Calorie Counting ---
+--- Day 2: Rock Paper Scissors ---
 
 .
 ├── 1
@@ -7,6 +8,9 @@
 │   ├── calorie_list.txt
 │   └── problem.md
 ├── 2
+│   ├── Day2.py
+│   ├── problem.md
+│   └── strategy.txt
 ├── 3
 ├── 4
 ├── 5
