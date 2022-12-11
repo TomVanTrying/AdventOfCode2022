@@ -16,6 +16,9 @@
 │   ├── problem.md
 │   └── strategy.txt
 ├── 3
+│   ├── Day3.py
+│   ├── input.txt
+│   └── problem.md
 ├── 4
 ├── 5
 ├── 6
